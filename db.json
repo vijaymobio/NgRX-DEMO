@@ -1,0 +1,11 @@
+{
+  "customers": [
+    {
+      "name": "ds",
+      "phone": "dsd",
+      "address": "sds",
+      "membership": "Platinum",
+      "id": 1
+    }
+  ]
+}
